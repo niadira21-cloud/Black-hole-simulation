@@ -1,3 +1,5 @@
+so uh yea im so lazy to code...JK
+here is the code to run it
 <!DOCTYPE html>
 <html lang="en">
 <head>
